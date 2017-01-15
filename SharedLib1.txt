@@ -1,1 +1,3 @@
 initial commit in sharedlib - currently not member of anything
+
+change from sharedlib itself
